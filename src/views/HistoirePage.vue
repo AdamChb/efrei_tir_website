@@ -1,0 +1,3 @@
+<template>
+    Histoire
+</template>
